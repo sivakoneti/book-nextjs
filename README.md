@@ -1,17 +1,17 @@
-# ✨ DIY Nextjs Theme ✨
+# ✨ Book Nextjs Theme ✨
 
-This is Stackbit's "DIY" theme built with [Next.js](https://nextjs.org/) and
+This is Stackbit's "Book" theme built with [Next.js](https://nextjs.org/) and
 powered by content stored in files.
 
 Click the button below to create a new website from this theme using Stackbit:
 
 <p align="center">
-  <a href="https://app.stackbit.com/create?theme=https://github.com/stackbit-themes/diy-nextjs&utm_source=theme-readme&utm_medium=referral&utm_campaign=stackbit_themes"><img alt="Create with Stackbit" src="https://assets.stackbit.com/badge/create-with-stackbit.svg"/></a>
+  <a href="https://app.stackbit.com/create?theme=https://github.com/stackbit-themes/book-nextjs&utm_source=theme-readme&utm_medium=referral&utm_campaign=stackbit_themes"><img alt="Create with Stackbit" src="https://assets.stackbit.com/badge/create-with-stackbit.svg"/></a>
 </p>
 
-[Live Site Demo](https://themes.stackbit.com/demos/diy/)
+[Live Site Demo](https://themes.stackbit.com/demos/book/)
 
-<img src="https://themes.stackbit.com/images/diy-demo-1024x768.png" width="600">
+<img src="https://themes.stackbit.com/images/book-demo-1024x768.png" width="600">
 
 The theme can be used to create a static website that is hosted by a serverless
 deployment platform such as [Netlify](https://www.netlify.com). The contents of
@@ -32,7 +32,7 @@ update the content files and instantly see your updates in the browser.
 
 ## Quick Start 🏎
 
-[Create a site](https://app.stackbit.com/create?theme=https://github.com/stackbit-themes/diy-nextjs&utm_source=theme-readme&utm_medium=referral&utm_campaign=stackbit_themes) from this theme using Stackbit.
+[Create a site](https://app.stackbit.com/create?theme=https://github.com/stackbit-themes/book-nextjs&utm_source=theme-readme&utm_medium=referral&utm_campaign=stackbit_themes) from this theme using Stackbit.
 
 Stackbit will execute following steps for you
 
@@ -42,7 +42,7 @@ Stackbit will execute following steps for you
 - Create a "commit" webhook in GitHub that will trigger Netlify deployment as
   soon as new commit is pushed to GitHub.
 - Create a Stackbit project that will allow you edit your website via on-page
-  visual editing experience. 
+  visual editing experience.
 
 
 ## Editing Content 📝
@@ -65,7 +65,7 @@ If you need a hand, make sure to check the [Stackbit support page](https://stack
 
 ## Develop Locally
 
-1. [Create a site](https://app.stackbit.com/create?theme=https://github.com/stackbit-themes/diy-nextjs&utm_source=theme-readme&utm_medium=referral&utm_campaign=stackbit_themes) from this theme using Stackbit.
+1. [Create a site](https://app.stackbit.com/create?theme=https://github.com/stackbit-themes/book-nextjs&utm_source=theme-readme&utm_medium=referral&utm_campaign=stackbit_themes) from this theme using Stackbit.
 
 1. Once finished, you will be redirected to Stackbit Studio where you will be
    able to edit the content using the free on-page editing experience, and
@@ -76,7 +76,7 @@ If you need a hand, make sure to check the [Stackbit support page](https://stack
 1. Install dependencies
 
        run npm install
-       
+
 1. Start the Next.js local development server:
 
         npm run develop
@@ -93,7 +93,7 @@ following command:
 
     npm run build
 
-The exported site will be written to `out` folder. The contents of this folder 
+The exported site will be written to `out` folder. The contents of this folder
 can be deployed by serverless deployment platform such as [Netlify](https://www.netlify.com).
 You can start a local server serving the static files from the `out` folder, for
 example by installing and running `http-server`:
